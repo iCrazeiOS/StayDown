@@ -1,0 +1,9 @@
+Package: com.icraze.staydown
+Name: StayDown
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop reachability from being dismissed when tapping the screen!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
